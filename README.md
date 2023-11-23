@@ -1,5 +1,5 @@
 # ships-biscuits
-A quick 2d ocean simulation using Pico-8. Utilizing the sum of sines to produce a psuedo-random wave on each run.
+A quick 2d ocean simulation using Pico-8. Utilizing the sum of sines to produce a pseudo-random wave on each run.
 Currently, the position each pixel is being calculated in the draw loop so it lacks efficiency at a wave number higher than 25.
 
 In order to run this file, you will need to have pico-8 until I use a tool to export it to a standalone file.
